@@ -1,0 +1,16 @@
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\interface.exe
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\interface.deps.json
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\interface.runtimeconfig.json
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\interface.runtimeconfig.dev.json
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\interface.dll
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\ref\interface.dll
+C:\Users\scum\source\repos\interface\interface\bin\Debug\net5.0\interface.pdb
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.csprojAssemblyReference.cache
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.AssemblyInfoInputs.cache
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.AssemblyInfo.cs
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.dll
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\ref\interface.dll
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.pdb
+C:\Users\scum\source\repos\interface\interface\obj\Debug\net5.0\interface.genruntimeconfig.cache
