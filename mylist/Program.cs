@@ -169,5 +169,34 @@ namespace mylist
 
             return Listt[i];
         }
+        public T ChangeMinStr()
+        {
+            int indexmin = 0;
+            T min = default(T);
+            for (int j = 1; j < i; j++)
+            {
+                if (Convert.ToString(Listt[j]).Length < Convert.ToString(Listt[indexmin]).Length)
+                {
+                    min = Listt[j];
+                    indexmin = j;
+                }
+
+            }
+            int indexmax = 0;
+            T max = default(T);
+            for (int j = 1; j < i; j++)
+            {
+                if (Convert.ToString(Listt[j]).Length > Convert.ToString(Listt[indexmax]).Length)
+                {
+                    max = Listt[j];
+                    indexmax = j;
+                }
+
+            }
+            Listt[indexmin] = max;
+            Listt[indexmax] = min;
+
+            return Listt[i];
+        }
     }
 }
