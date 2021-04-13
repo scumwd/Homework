@@ -1,0 +1,16 @@
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).csprojAssemblyReference.cache
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).AssemblyInfoInputs.cache
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).AssemblyInfo.cs
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).csproj.CoreCompileInputs.cache
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\kr13.04(1).exe
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\kr13.04(1).deps.json
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\kr13.04(1).runtimeconfig.json
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\kr13.04(1).runtimeconfig.dev.json
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\kr13.04(1).dll
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\ref\kr13.04(1).dll
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\bin\Debug\net5.0\kr13.04(1).pdb
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).dll
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\ref\kr13.04(1).dll
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).pdb
+C:\Users\Отём\source\repos\kr13.04(1)\kr13.04(1)\obj\Debug\net5.0\kr13.04(1).genruntimeconfig.cache
